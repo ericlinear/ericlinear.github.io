@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+	<title>Eric Lin</title>
+
+</head>
+
+<body>
+
+<strong>Hello! This is my site</strong>
+
+  <p>However you managed to reach here, congratulations! You must be a stalker 
+    or some really lucky person to stumble here.</p>
+
+  <p>Eventually there will be a blog here, hopefully hosted here, but possibly 
+    a third-party solution if I'm lazy. Whichever comes first.</p>
+
+  <p>My <a href="Resume">resume</a> if you are interested.</p>
+
+</body>
